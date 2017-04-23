@@ -1,0 +1,15 @@
+{
+    "name": "belgian/view",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":  "Estefanio NS",
+            "email": "estefanions@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Belgian\\View\\": "Belgian/View/"
+        }
+    }
+}
